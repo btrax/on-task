@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="watch_background">#222222</color>
+    <color name="complete_background">#801DB0B6</color>
+
+
+    <color name="task_color_yellow">#70d3db00</color>
+    <color name="task_color_green">#7000db77</color>
+    <color name="task_color_red">#70db0000</color>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnTask</string>
+    <string name="task_complete">COMPLETE!</string>
+    <string name="task_name_no_task">tap to input!</string>
+    <string name="prompt_voice_input">input a task!</string>
+    <string name="complete_message">Complete!!</string>
+    <string name="no_task">set a task!</string>
+    <string name="task_name_ellipsize">..</string>
+    <string name="task_place_prefix">by </string>
+
+    <string name="watch_face_name">on task</string>
+
+</resources>
